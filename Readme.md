@@ -9,6 +9,9 @@ Make sure you have Python installed on your machine.
 If not, visit the below URL,  
 https://www.python.org/downloads/
 
-# Screenshots:
+## Screenshots:
 ### Light Mode
 ![](https://github.com/Ritik-Saxena/Calculator-Light-and-Dark-Mode/blob/25b72aa9b1318cd8ae8fd666adcc3109583f572e/Screenshots%20%26%20Videos/Light%20mode.PNG)
+
+### Dark Mode
+![](https://github.com/Ritik-Saxena/Calculator-Light-and-Dark-Mode/blob/master/Screenshots%20%26%20Videos/Dark%20mode.PNG)
