@@ -11,10 +11,10 @@ https://www.python.org/downloads/
 
 
 ## <span>&#8226;</span> Screenshots:
-### Light Mode
+#### Light Mode
 <img src="https://github.com/Ritik-Saxena/Calculator-Light-and-Dark-Mode/blob/25b72aa9b1318cd8ae8fd666adcc3109583f572e/Screenshots%20%26%20Videos/Light%20mode.PNG">
 
-### Dark Mode
+#### Dark Mode
 <img src="https://github.com/Ritik-Saxena/Calculator-Light-and-Dark-Mode/blob/master/Screenshots%20%26%20Videos/Dark%20mode.PNG">
 
 ## <span>&#8226;</span> Video:
