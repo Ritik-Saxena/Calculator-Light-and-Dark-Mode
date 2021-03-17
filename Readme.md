@@ -18,4 +18,4 @@ https://www.python.org/downloads/
 <img src="https://github.com/Ritik-Saxena/Calculator-Light-and-Dark-Mode/blob/master/Screenshots%20%26%20Videos/Dark%20mode.PNG">
 
 ## <span>&#8226;</span> Video:
-[![Watch the video](https://github.com/Ritik-Saxena/Calculator-Light-and-Dark-Mode/blob/25b72aa9b1318cd8ae8fd666adcc3109583f572e/Screenshots%20%26%20Videos/Light%20mode.PNG)](https://user-images.githubusercontent.com/62079355/111534710-4fde3300-878e-11eb-953f-3713c25a2e61.mp4)
+[![Watch the video](https://user-images.githubusercontent.com/62079355/111539970-86b74780-8794-11eb-8cb7-156bbb385712.PNG)](https://user-images.githubusercontent.com/62079355/111534710-4fde3300-878e-11eb-953f-3713c25a2e61.mp4)
